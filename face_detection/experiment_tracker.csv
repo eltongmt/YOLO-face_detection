@@ -1,0 +1,2 @@
+experiment, model_path, data_path, val_vid_notes
+E1, C:\Users\multimaster\Documents\GitHub\YOLO-Object-Detection-Project\YOLO-Object-Detection-Project\face_detection\E1, C:\Users\multimaster\Desktop\YOLO_DATA\face_detection\2024-05-31_Training-data, very accurate front side(0 perspective degree) view performance becomes worst as the angle increases in magnitude
